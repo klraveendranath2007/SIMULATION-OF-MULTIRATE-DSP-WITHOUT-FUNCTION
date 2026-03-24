@@ -63,8 +63,8 @@ title("Upsampled Signal")
 
 
 ### OUTPUT: 
-<img width="504" height="437" alt="image" src="https://github.com/user-attachments/assets/2fb57f3f-6df8-4c95-aac1-7c9a1f0e1ffb" />
-<img width="495" height="404" alt="image" src="https://github.com/user-attachments/assets/aa34365e-4004-4ad2-93a3-5197bd1713b6" />
+<img width="484" height="437" alt="image" src="https://github.com/user-attachments/assets/2fb57f3f-6df8-4c95-aac1-7c9a1f0e1ffb" />
+<img width="475" height="404" alt="image" src="https://github.com/user-attachments/assets/aa34365e-4004-4ad2-93a3-5197bd1713b6" />
 
 
 ### RESULT: 
