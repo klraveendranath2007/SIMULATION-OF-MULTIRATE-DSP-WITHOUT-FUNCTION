@@ -1,19 +1,19 @@
-# EXP 6 : SPEECH RECOGNITION USING SCILAB
+## EXP 6 : Simulation of Multirate DSP using Decimation and Interpolation
 
-## AIM: 
+### AIM: 
 
 To perform and verify multirate DSP without function using SCILAB.
 
-## APPARATUS REQUIRED: 
+### APPARATUS REQUIRED: 
 PC installed with SCILAB. 
 
-## PROGRAM : 
-
-//  SPEECH RECOGNITION USING SCILAB
-
-## OUTPUT: 
+### PROGRAM : 
 
 
-## RESULT: 
+
+### OUTPUT: 
+
+
+### RESULT: 
 Thus the decimation process by a factor M and interpolation process by a factor L using 
 SCILAB was implemented. 
