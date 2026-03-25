@@ -2,7 +2,7 @@
 
 ### AIM: 
 
-To perform and verify multirate DSP without function using SCILAB.
+To perform and verify multirate DSP without function using SCILAB .
 
 ### APPARATUS REQUIRED: 
 PC installed with SCILAB. 
